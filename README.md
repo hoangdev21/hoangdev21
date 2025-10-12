@@ -118,6 +118,10 @@
 ## 📈 Contribution Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/hoangdev21/hoangdev21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangdev21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
