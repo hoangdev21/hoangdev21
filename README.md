@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ng+Hoang;Information+Technology+Student;Java+Developer;Database+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hoang;Information+Technology+Student;Java+Developer;Database+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NNH21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NNH21?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/NNH21?label=Stars&style=flat-square&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=hoangdev21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hoangdev21?label=Followers&style=flat-square&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/hoangdev21?label=Stars&style=flat-square&color=yellow" alt="Stars"/>
 </p>
 
 ---
@@ -106,11 +106,11 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NNH21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_radius=10&custom_title=Ng%20Hoang's%20GitHub%20Statistics" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangdev21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_radius=10&custom_title=Hoang's%20GitHub%20Statistics" alt="GitHub Stats" width="100%"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNH21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdev21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NNH21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangdev21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -142,7 +142,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@_kivih.h21">
+  <a href="https://www.tiktok.com/@cobietbuondau_">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/hoangmis21">
@@ -164,6 +164,6 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/NNH21">NNH21</a> | Made with ❤️ and ☕</i><br/>
+  <i>⭐️ From <a href="https://github.com/hoangdev21">hoangdev21</a> | Made with ❤️ and ☕</i><br/>
   <i>🎓 Information Technology Student @ UED - Da Nang</i>
 </p>
