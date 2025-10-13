@@ -15,55 +15,54 @@
 </p>
 
 ---
-
 ## 👨‍🎓 About Me
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Education
-- 🎓 **University:** University of Education - The University of Da Nang (UED)
-- 💻 **Major:** Information Technology
-- 📍 **Location:** Da Nang, Vietnam
-- 🎯 **Role:** Software Developer & IT Student
+#### 📚 Education
+**University of Education - The University of Da Nang (UED)**  
+🎓 Bachelor of Information Technology  
+📍 Da Nang, Vietnam  
+🎯 Software Developer & IT Student
 
-### 💡 Interests
-- 🔥 Backend Development
-- 🗄️ Database Management Systems
-- 🤖 Artificial Intelligence & Machine Learning
-- 🎬 Video Processing & Multimedia Tools
-- 🌐 Full-Stack Web Development
+#### 💡 Core Interests
+- Backend Development & System Architecture
+- Database Management & Optimization
+- Artificial Intelligence & Machine Learning
+- Video Processing & Multimedia Solutions
+- Full-Stack Web Development
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Skills & Technologies
+#### 🚀 Technical Stack
 
-**Programming Languages:**
-- Java, Python, JavaScript, SQL
+**Languages**  
+Java, Python, JavaScript, SQL
 
-**Backend & Database:**
-- Spring Boot, Node.js, RESTful API
-- MySQL, MongoDB, SQLite
-- Database Design & Optimization
+**Backend & Database**  
+Spring Boot, Node.js,  RESTful API  
+MySQL, MongoDB, SQLite
 
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- Responsive Web Design
+**Frontend**  
+HTML5, CSS3, JavaScript  
+Responsive Design
 
-**Tools & Environment:**
-- Git, IntelliJ IDEA, VS Code
-- Android Studio, Postman
+**Development Tools**  
+Git, IntelliJ IDEA, VS Code  
+Android Studio, Postman
 
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
-  <i>💫 Building robust Java applications, exploring AI/ML technologies, and developing practical solutions for real-world problems</i>
+  <sub>💫 Passionate about building robust Java applications, exploring AI/ML technologies, and developing practical solutions for real-world problems</sub>
 </p>
-
 ---
 
 ## 🛠️ Technology Stack
