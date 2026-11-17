@@ -1,4 +1,4 @@
-<h1 align="center">Hoang</h1>
+<h1 align="center">HoangDev21</h1>
 
 <p align="center">
   <a href="https://github.com/hoangdev21">
@@ -17,7 +17,7 @@
 - 🧠 Java Developer & Database Enthusiast
 - 📍 Da Nang, VN
 - 🔭 Currently working on: advanced database systems and full-stack Java applications
-- 🌱 Learning: Spring Boot, RESTful APIs, Microservices, AI/ML
+- 🌱 Learning: RESTful APIs, Microservices, AI/ML
 
 ## Tech
 
@@ -42,6 +42,6 @@
 
 ## Links
 
-- TikTok: [https://www.tiktok.com/@cobietbuondau_](https://www.tiktok.com/@cobietbuondau_)
+- TikTok: [https://www.tiktok.com/@cobietbuondau_](https://www.tiktok.com/@_nghoangg21_)
 - Facebook: [https://www.facebook.com/hoangmis21](https://www.facebook.com/hoangmis21)
 - Beacons: [https://beacons.ai/misdev21](https://beacons.ai/misdev21)
